@@ -1,0 +1,2 @@
+m_pkg
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/lee/D/cpp_files/github/VS_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/lee/D/cpp_files/github/VS_ROS/install -G Unix Makefiles

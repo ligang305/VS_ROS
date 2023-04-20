@@ -1,0 +1,8 @@
+prefix=/home/lee/D/cpp_files/github/VS_ROS/devel
+
+Name: m_pkg
+Description: Description of m_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
